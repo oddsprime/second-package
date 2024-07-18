@@ -2,7 +2,7 @@
 import React from 'react';
 
 const NewComponent = () => {
-  return <div>Hello, this is my new component!</div>;
+  return <div>Hello, ki haal chal je</div>;
 };
 
 export default NewComponent;
